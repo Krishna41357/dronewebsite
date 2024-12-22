@@ -2225,7 +2225,7 @@ const HOMEpage = () => {
       <Sponsors/>
       <div
         id="contactus"
-        className="container3 w-full p-2 sm:p-4 flex items-center justify-center bg-[#23201d]"
+        className="bg-[url('/contactus-bgd-rotate.jpg')] bg-cover bg-no-repeat bg-center  w-full p-2 sm:p-4 flex items-center justify-center bg-[#23201d] "
       >
         <div className="contactus md:w-[60%]">
           <Form />
